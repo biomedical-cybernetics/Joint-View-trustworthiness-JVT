@@ -11,9 +11,9 @@ In the framework of Urbanska et al. study: the theoretical concept, algorithm an
 # What is containing this repository
 Data, MATLAB, R and Python code files in respective dedicated folders, specifically:
 + Data: the 9 datasets that you need to run either of the MATLAB, R or Python scripts.
-+ MATLAB (written by Carlo Vittorio Cannistraci and tested by Syed Shafat Ali): JVT code and three scripts to replicate the results of positive hypothesis 1, positive hypothesis 2 and negative hypothesis in Table 4 of Urbanska et al. At the beginning of the code, there is a help section that explains how to use it.
++ MATLAB (written by Carlo Vittorio Cannistraci and tested by Syed Shafat Ali and Yan Ge): JVT code and three scripts to replicate the results of positive hypothesis 1, positive hypothesis 2 and negative hypothesis in Table 4 of Urbanska et al. At the beginning of the code, there is a help section that explains how to use it.
 + Python (written by Syed Shafat Ali and tested by Yan Ge): analogous functions of the MATLAB folder. You will find both the Python scripts (.py) and Jupyter Notebook scripts (.pynb) for each of positive hypothesis 1, positive hypothesis 2 and negative hypothesis.
-+ R  (written by Syed Shafat Ali and tested by Yan Ge): analogous functions of the MATLAB folder.
++ R (written by Syed Shafat Ali and tested by Yan Ge): analogous functions of the MATLAB folder.
 
 Note: Ensure you set the paths correctly before running the scripts. The functions were tested respectively in: MATLAB 2018a or youger, Python 3.9.4, R 4.0.3. 
 
