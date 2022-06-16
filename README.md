@@ -17,6 +17,8 @@ Data, MATLAB, R and Python code files in respective dedicated folders, specifica
 
 Note: Ensure you set the paths correctly before running the scripts. The functions were tested respectively in: MATLAB 2018a or youger, Python 3.9.4, R 4.0.3. 
 
-
+# Contacts
+For any problem, please contact:
+Carlo Vittorio Cannistraci: kalokagathos.agon@gmail.com
 
 
