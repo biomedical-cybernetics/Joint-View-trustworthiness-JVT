@@ -19,6 +19,6 @@ Note: Ensure you set the paths correctly before running the scripts. The functio
 
 # Contacts
 For any problem, please contact:
-Carlo Vittorio Cannistraci: kalokagathos.agon@gmail.com
+Carlo Vittorio Cannistraci kalokagathos.agon@gmail.com
 
 
