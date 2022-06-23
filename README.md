@@ -19,18 +19,18 @@ Note: Ensure you set the paths correctly before running the scripts. The functio
 
 # Tips for running the R and Python codes
 R code:
-Make sure, you have the following packages installed: ‘pROC’, ‘R.matlab’ and ‘xlsx’.
-In each of test_posHy1.R, test_posHy2.R and test_negHy.R, set the working directory as “R” folder (line #2).
-In JVT.R, ensure the path is set to the datasets (“Data”) folder (lines #70, #96).
-Run test_posHy1.R or test_posHy2.R or test_negHy.R normally and see the result. Do not directly run JVT.R as it is only a function, which is called from the former three scripts.
-The result will be saved to your “R” folder.
++ Make sure, you have the following packages installed: ‘pROC’, ‘R.matlab’ and ‘xlsx’.
++ In each of test_posHy1.R, test_posHy2.R and test_negHy.R, set the working directory as “R” folder (line #2).
++ In JVT.R, ensure the path is set to the datasets (“Data”) folder (lines #70, #96).
++ Run test_posHy1.R or test_posHy2.R or test_negHy.R normally and see the result. Do not directly run JVT.R as it is only a function, which is called from the former three scripts.
++ The result will be saved to your “R” folder.
 
 Python code:
-Make sure, you have the following packages installed: ‘importlib’, ‘os’, ‘scipy’, ‘numpy’, ‘pandas’ and ‘sklearn’.
-In each of test_posHy1.py, test_posHy2.py and test_negHy.py, set the working directory as “Python” folder (line #6). (For the corresponding the .ipynb, line #2)
-In JVT.py, ensure the path is set to the datasets (“Data”) folder (lines #76, #108).
-Run test_posHy1.py or test_posHy2.py or test_negHy.py normally and see the result. Do not directly run JVT.py as it is only a function, which is called from the former three scripts.
-The result will be saved to your “Python” folder.
++ Make sure, you have the following packages installed: ‘importlib’, ‘os’, ‘scipy’, ‘numpy’, ‘pandas’ and ‘sklearn’.
++ In each of test_posHy1.py, test_posHy2.py and test_negHy.py, set the working directory as “Python” folder (line #6). (For the corresponding the .ipynb, line #2)
++ In JVT.py, ensure the path is set to the datasets (“Data”) folder (lines #76, #108).
++ Run test_posHy1.py or test_posHy2.py or test_negHy.py normally and see the result. Do not directly run JVT.py as it is only a function, which is called from the former three scripts.
++ The result will be saved to your “Python” folder.
 NOTE: The same procedure needs to be followed if the user wishes to run .ipynb files in Jupyter Notebook instead.
 
 # Contacts
