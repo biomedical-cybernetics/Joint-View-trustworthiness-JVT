@@ -31,7 +31,7 @@ Python code:
 + In JVT.py, ensure the path is set to the datasets (“Data”) folder (lines #76, #108).
 + Run test_posHy1.py or test_posHy2.py or test_negHy.py normally and see the result. Do not directly run JVT.py as it is only a function, which is called from the former three scripts.
 + The result will be saved to your “Python” folder.
-NOTE: The same procedure needs to be followed if the user wishes to run .ipynb files in Jupyter Notebook instead.
++ NOTE: The same procedure needs to be followed if the user wishes to run .ipynb files in Jupyter Notebook instead.
 
 # Contacts
 For any problem, please contact:
