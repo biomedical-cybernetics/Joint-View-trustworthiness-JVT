@@ -1,7 +1,9 @@
 # Joint-View-trustworthiness-JVT
 This code was developed to support the findings of the following manuscript:
-Urbanska, M., Ge, Y. et al.,  De novo identification of universal cell mechanics gene signatures
-BiorXiv: https://doi.org/10.1101/2021.04.26.441418   eLife: https://doi.org/10.7554/eLife.87930 
+Urbanska, M., Ge, Y. et al.,  
+*De novo identification of universal cell mechanics gene signatures*  
+BiorXiv: [https://doi.org/10.1101/2021.04.26.441418](https://doi.org/10.1101/2021.04.26.441418)  
+eLife: [https://doi.org/10.7554/eLife.87930](https://doi.org/10.7554/eLife.87930)
 
 # Definition of jointly multiview discrimination
 Jointly multiview discriminative means that the minimum performance of a predictor model or a marker (single or combinatorial) on different datasets is considered as a reference of its general discriminative performance. Indeed, if the minimum performance is high then it means the predictor is general in ability to discriminate the investigated phenotype. Meanwhile, this general ability to discriminate should be specific of the investigated phenotype. If a marker displays both generality and specificity to a certain phenotype then we can expect that it is a universal and specific signature associated to that phenotype. 
